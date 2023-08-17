@@ -19,7 +19,7 @@ This is a solution to the [Weather App Project With API].
 
 ### Links
 
-- Solution URL: ((https://github.com/Ali28202/weather-app-project-with-API-))
+- Solution URL: (https://github.com/Ali28202/weather-app-project-with-API-)
 
 ## My process
 
